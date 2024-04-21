@@ -22,3 +22,8 @@ http://localhost:8080/springbootxs5o6/admin/dist/index.html
 	    username: root
 	    password: 123456 （数据库密码）
 
+![输入图片说明](60bab58d417f3ec523b6f72e5990d43.png)
+![输入图片说明](4a51d840a83ac23e0c6c311be2b1e30.png)
+![输入图片说明](image.png)
+![输入图片说明](3d6e95c9a0e9ab520f6aa4a5647ec8a.png)
+![输入图片说明](9cb1756974ef509d564830799f23602.png)
